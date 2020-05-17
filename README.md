@@ -1,4 +1,4 @@
-CAMEROON CORONA VIRUS DATA ANALYSIS USING PYTHON
+# CAMEROON CORONA VIRUS DATA ANALYSIS USING PYTHON & R 
 
 This Code helps us to understand COVID-19-CAMEROON-Data, data analysis, making decision base on statistical analysis, data analysis technique, machine learning and artificial intelligence.
 #### An indepth example of SIR time dependent model and SIR travelling wave desease for COVID10 in Cameroon
